@@ -1,7 +1,5 @@
 <div align="center">
 
-# 🌱 Branchout
-
 **Não sabe qual área de tecnologia seguir? O Branchout descobre com você e monta o seu roadmap de estudos, do zero e 100% gratuito.**
 
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)
@@ -13,12 +11,6 @@
 </div>
 
 ---
-
-## O problema
-
-Quem está começando em tecnologia encontra dezenas de áreas (desenvolvimento, dados, IA, cibersegurança, cloud...) e uma montanha de conteúdo solto. Sem saber por onde começar, muita gente desiste ou estuda sem direção.
-
-## A solução
 
 O Branchout é um **agente de IA conversacional** (CLI) que age como um guia de carreira:
 
